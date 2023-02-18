@@ -34,12 +34,9 @@
         android:background="#e0e0eb"
         android:text="Show"/>
     <TextView
-        android:text=""
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textColor="#e0e0eb"
-        android:textSize="50dp"
-        android:layout_margin="50dp"
-        android:paddingBottom="70dp"/>
+        android:textColor="#121213"
+        android:textSize="50dp"/>
 </LinearLayout>
